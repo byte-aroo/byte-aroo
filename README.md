@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshat-jainn
-- 👀 Do software developments and electronic device projects
+- 👀 Do software development and electronic device projects
 - 🌱 Learning Electronics and Communication 
 - 📫 You can contact me related to any project on "adhocsolutions0@gmail.com"
 
